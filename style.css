@@ -1,0 +1,18 @@
+/* Styles go here */
+
+h1 {
+  text-align: center;
+}
+
+#date, #location {
+  text-align:center;
+}
+
+#apply {
+  text-align:center;
+}
+
+#big_question {
+  font-style:italic;
+  font-size:150%;
+}
