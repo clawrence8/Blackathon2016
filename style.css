@@ -16,3 +16,22 @@ h1 {
   font-style:italic;
   font-size:150%;
 }
+
+body {
+    background-color: aqua;
+}
+
+.typeform-share button{
+    text-align: center;
+}
+
+.container {
+text-align: center;
+}
+
+.center-element {
+width: 100px;
+text-align: left;
+}
+
+
